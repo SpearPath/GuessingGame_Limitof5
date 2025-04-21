@@ -1,4 +1,4 @@
-﻿namespace GuessingGame
+﻿namespace GuessingGameL5
 {
     partial class Form1
     {
