@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace GuessingGame
+namespace GuessingGameL5
 {
     public partial class Form1 : Form
     {
